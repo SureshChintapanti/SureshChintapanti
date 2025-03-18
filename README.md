@@ -1,4 +1,4 @@
-# 💻 Suresh Chintapanti
+# 💼 Suresh Chintapanti
 
 **.NET/Angular Full Stack Developer**  
 📍 Hyderabad, India  
@@ -8,7 +8,7 @@
 ---
 
 ## 📝 Summary
-Junior Software Engineer with **1+ years** of experience in .NET and Angular development. Skilled in building dynamic web applications, optimizing UI performance, and integrating APIs. Passionate about delivering scalable and user-friendly solutions with seamless client-server communication.
+Full Stack Developer with **1+ years** of hands-on experience in .NET and Angular development. Proficient in building dynamic web applications, optimizing UI performance, and integrating APIs. Passionate about delivering scalable and user-friendly solutions with seamless client-server communication.
 
 ---
 
@@ -41,10 +41,10 @@ Junior Software Engineer with **1+ years** of experience in .NET and Angular dev
 ---
 
 ## 🏆 Key Achievements
-- **Optimized Data Processing:** Successfully transformed client files using Altova MapForce.
+- **Optimized Data Processing:** Transformed client files using Altova MapForce for enhanced system performance.
 - **Enhanced UI Performance:** Built data grids with filtering, sorting, and editing using Kendo UI.
-- **Full-Stack Development:** Hands-on experience in Angular, .NET Core, and SQL.
-- **System Migration:** Seamlessly migrated legacy systems to Angular and .NET.
+- **Full-Stack Development:** Demonstrated expertise in Angular, .NET Core, and SQL.
+- **System Migration:** Led migration from legacy systems to modern Angular and .NET solutions.
 
 ---
 
@@ -52,9 +52,9 @@ Junior Software Engineer with **1+ years** of experience in .NET and Angular dev
 - **Frontend:** Angular, TypeScript, HTML, CSS
 - **Backend:** .NET Core, C#
 - **UI Frameworks & Libraries:** Kendo UI, Bootstrap
-- **Database:** SqlServer, Oracle
+- **Database:** PL/SQL
 - **Data Mapping:** Altova MapForce
-- **Tools & IDEs:** VS Code, Visual Studio, Altova MapForce
+- **Tools & IDEs:** Visual Studio, Altova MapForce
 
 ---
 
@@ -66,9 +66,10 @@ Junior Software Engineer with **1+ years** of experience in .NET and Angular dev
 ---
 
 ## 🎯 Training
-- Completed Full Stack Developer Training at **NxtWave | CCBP 4.0 Certification Program** (9-Month Intensive Program)
+- Full Stack Developer Training at **NxtWave | CCBP 4.0 Certification Program** (9-Month Intensive Program)
 
 ---
 
 ## 🌱 Let's Connect
 Feel free to reach out via email or LinkedIn for collaboration or opportunities!
+
